@@ -1,2 +1,2 @@
 # Zbar-library-embedded-devices
-已解决内存泄漏问题，可用于STM32单片机等嵌入式设备中进行QR码识别
+Solved memory leakage issue and can be used for QR code recognition in embedded devices such as STM32 microcontrollers

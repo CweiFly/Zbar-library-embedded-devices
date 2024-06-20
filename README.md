@@ -1,0 +1,1 @@
+# Zbar-library-embedded-devices
